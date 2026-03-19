@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <theme>STANDARD</theme>
+    <documentTitle>Cucumber Automation Report</documentTitle>
+    <reportName>Regression Test Results</reportName>
+    <timeStampFormat>dd-MMM-yyyy HH:mm:ss</timeStampFormat>
+</configuration>
+
