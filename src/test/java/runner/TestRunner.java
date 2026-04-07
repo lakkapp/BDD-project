@@ -9,7 +9,7 @@ import io.cucumber.testng.CucumberOptions;
 		features={"src/test/resources/practice.feature","src/test/resources/login.feature",
 				"src/test/resources/testTablePractice.feature"},
 		glue= {"stepdefinitions","hooks"},
-		tags= "@SortbyCourseNamealphabetical",
+		tags= "",
 				 plugin = {
 			                "pretty",
 			                "summary",
